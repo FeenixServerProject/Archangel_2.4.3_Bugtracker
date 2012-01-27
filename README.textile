@@ -7,7 +7,7 @@
 <li>Clear your cache (additional: wtf) folders of your game client. As the data of your client can interfere with data of our server, there is a possibility that your issue is not a server side issue, but caused by your clients cache</li>
 <li>For gathering quest issues: Abandon and retake the quest in particular</li>
 <li>Ask other players if the same issue is encountered</li>
-<li>Always visit Blizzlike websites like <a href="http://www.wowhead.com"><tt>Wowhead</tt></a> or <a href="http://www.wowwiki.com"><tt>WoWWiki</tt></a> to familiarize yourself with the matter and assumed issue. Beware of the fact that game functionalities as uled might differ from our patch</li>
+<li>Always visit Blizzlike websites like <a href="http://old.wowhead.com"><tt>Wowhead</tt></a> or <a href="http://www.wowwiki.com"><tt>WoWWiki</tt></a> to familiarize yourself with the matter and assumed issue. Beware of the fact that game functionalities as uled might differ from our patch</li>
 </ul>
 
 If you performed the actions as described above, and your issue still persists you can make a report on our issue tracker
@@ -36,7 +36,7 @@ The following data should always be present in your report:
 
 <ul>
 <li>A clear description of your issue, as detailed as possible In other words, when does your issue occur, what actions do you perform when it occurs, which npc's are involved, etc</li>
-<li>Links to sites that provide us with Blizzlike data are appreciated We prefer taking data from <a href="http://www.old.wowhead.com"><tt>Wowhead</tt></a> or <a href="http://www.wowwiki.com"><tt>WoWWiki</tt></a></li>
+<li>Links to sites that provide us with Blizzlike data are appreciated We prefer taking data from <a href="http://old.wowhead.com"><tt>Wowhead</tt></a> or <a href="http://www.wowwiki.com"><tt>WoWWiki</tt></a></li>
 </ul>
 
 
