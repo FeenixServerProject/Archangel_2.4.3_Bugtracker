@@ -45,7 +45,7 @@ The following data should always be present in your report:
 <ul>
 <li>We encourage to submit screenshots, as this can help us investigate the reported issue</li>
 <li>Any additional information that will help us investigating and solving the issue</li>
-<li><a href="http://www.wow-one.com/forum/topic/108854-issue-tracking-and-reporting-changes/"><tt>Here</tt> is a guide on how to favorite, confirm and deny issues to help prioritize fixes</li>
+<li><a href="http://www.wow-one.com/forum/topic/108854-issue-tracking-and-reporting-changes/"><tt>Here</tt></a> is a guide on how to favorite, confirm and deny issues to help prioritize fixes</li>
 <li><a href="https://docs.google.com/document/d/1aQd0yDhj89iW325jQ3M1BhcD1Rbju-4dr1LH8ZBPy3c/edit?pli=1"><tt>Here</tt></a> is a form and sample on how to report a bug</li>
 </ul>
 
